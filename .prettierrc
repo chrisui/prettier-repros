@@ -1,8 +1,5 @@
 {
-  "plugins": [
-    "./node_modules/prettier-plugin-jsdoc",
-    "./node_modules/prettier-plugin-packagejson"
-  ],
+  "plugins": ["./node_modules/prettier-plugin-jsdoc"],
   "trailingComma": "es5",
   "tabWidth": 2,
   "semi": false,
